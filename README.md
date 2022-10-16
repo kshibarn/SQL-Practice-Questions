@@ -46,3 +46,25 @@ The solutions of all level of SQL questions present in Hackerrank & Leetcode are
 |   2    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/The_Pads.sql)
 |   3    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/Binary_Tree_Nodes.sql)
 |   4    | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/New_Companies.sql)
+
+### Aggregation Questions
+
+| Number | Questions | Solutions |
+|:------:|------------|:---------:|
+|   1    | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+|   2    | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+|   3    | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+|   4    | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Average_Populations.sql)
+|   5    | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Japan-Population.sql)
+|   6    | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Population%20Density%20Difference.sql)
+|   7    | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/The-Blunder.sql)
+|   8    | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Top_Earners.sql)
+|   9    | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_2.sql)
+|   10   | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_13.sql)
+|   11   | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_14.sql)
+|   12   | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station%20_15.sql)
+|   13   | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_16.sql)
+|   14   | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_17.sql)
+|   15   | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_18.sql)
+|   16   | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_19.sql)
+|   17   | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_20.sql)
