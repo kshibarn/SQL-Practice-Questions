@@ -37,3 +37,12 @@ The solutions of all level of SQL questions present in Hackerrank & Leetcode are
 |   18   | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Select/Higher_Than_75_Marks.sql)
 |   19   | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Select/Employees_Names.sql)
 |   20   | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Select/Employees_Salaries.sql)
+
+### Advanced Select Questions
+
+| Number | Questions | Solutions |
+|:------:|------------|:---------:|
+|   1    | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/Type_of_Triangle.sql)
+|   2    | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/The_Pads.sql)
+|   3    | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/Binary_Tree_Nodes.sql)
+|   4    | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Select/New_Companies.sql)
