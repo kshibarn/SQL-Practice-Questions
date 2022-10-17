@@ -81,3 +81,16 @@ The solutions of all level of SQL questions present in Hackerrank & Leetcode are
 |   6    | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Challenges.SQL)
 |   7    | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Contest_Leaderboard.sql)
 |   8    | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Top_Competitors.sql)
+
+### Advanced Join Questions
+
+| Number | Questions | Solutions |
+|:------:|------------|:---------:|
+|   1    | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Advanced%20Join/Placements.sql)
+
+### Alternative Queries Questions
+
+| Number | Questions | Solutions |
+|:------:|------------|:---------:|
+|   1    | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Alternative%20Queries/Draw_The_Triangle_1.sql)
+|   2    | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Alternative%20Queries/Draw_The_Triangle_2.sql)
