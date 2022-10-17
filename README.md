@@ -68,3 +68,16 @@ The solutions of all level of SQL questions present in Hackerrank & Leetcode are
 |   15   | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_18.sql)
 |   16   | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_19.sql)
 |   17   | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Aggregation/Weather_Observation_Station_20.sql)
+
+### Basic Join Questions
+
+| Number | Questions | Solutions |
+|:------:|------------|:---------:|
+|   1    | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Population_Census.sql)
+|   2    | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/African_Cities.sql)
+|   3    | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Average_Population_of_Each_Continent.sql)
+|   4    | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/The_Report.sql)
+|   5    | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Ollivander's_Inventory.sql)
+|   6    | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Challenges.SQL)
+|   7    | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Contest_Leaderboard.sql)
+|   8    | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/kshibarn/SQL-Practice-Questions/blob/master/Hackerrank/Basic%20Join/Top_Competitors.sql)
